@@ -1,0 +1,6 @@
+[submodule "library/Arduino-Makefile"]
+	path = libraries/Arduino-Makefile
+	url = https://github.com/sudar/Arduino-Makefile.git
+[submodule "library/YAAJ_ModbusMaster"]
+	path = libraries/YAAJ_ModbusMaster
+	url = https://github.com/yet-another-average-joe/YAAJ_ModbusMaster.git
